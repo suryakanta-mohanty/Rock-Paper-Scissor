@@ -12,7 +12,6 @@ body{
 
 .container{
   width: 400px;
-  /* background-color: antiquewhite; */
   margin: 100px auto 0;
   padding: 20px ;
   display: flex;
